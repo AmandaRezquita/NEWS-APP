@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NEWS APP</string>
+    <string name="api_key">aad8f3b83b944780b8f9b5221dd2e6e2</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="error_password_dont_match">Password and confirmation password do not match</string>
+    <string name="error_minimal_password">Password must be at least 8 characters</string>
+    <string name="error_valid_email">Please enter a valid email address</string>
+    <string name="error_valid_username">Please enter a valid username</string>
+    <string name="error_field_required">All fields is required and cannot be empty</string>
+    <string name="logout">Logout</string>
+
+
+
+        <string-array name="onboarding_title">
+            <item>Information</item>
+            <item>information dissemination</item>
+            <item>Live News</item>
+            <item>Daily News</item>
+        </string-array>
+
+        <string-array name="onboarding_description">
+            <item>I can provide you with some general information about the news, but please note that as an AI model, I dont have access to real-time data or the ability to browse the internet</item>
+            <item>News is disseminated through mass media channels such as television, radio, newspapers, and magazines. These traditional media outlets have a wide reach and can convey information to a large audience.</item>
+            <item>To get the latest live news, I recommend checking reliable news sources such as news websites, television news channels, or radio stations. </item>
+            <item>These sources offer comprehensive daily news coverage across various topics, including politics, business, world news, sports, entertainment, and more. </item>
+        </string-array>
+</resources>
+
